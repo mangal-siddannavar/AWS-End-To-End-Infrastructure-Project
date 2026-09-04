@@ -418,10 +418,10 @@ Demonstrated Infrastructure as Code (IaC) deployment using CloudFormation.
 
 # 👩‍💻 Author
 
-## Dhanu Sri R
+## Mangal Siddannaavar
 
 LinkedIn:
-https://www.linkedin.com/in/dhanu-sri-r-846655398/
+https://www.linkedin.com/in/mangal-s
 
 GitHub:
-https://github.com/Dhanu-Kotari
+https://github.com/mangalsiddannavar/
